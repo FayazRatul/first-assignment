@@ -1,0 +1,177 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+section {
+
+    margin-bottom: 60px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+
+.helping-hand {
+
+    background-image: url(images/donation13.jpg);
+    color: antiquewhite;
+    background-position: center;
+    background-size: 1400PX;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+}
+
+.donate-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: antiquewhite;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.donate-today {
+    text-align: center;
+}
+
+
+
+.side-by-side {
+
+    width: 40%;
+    display: flex;
+    margin-left: 17%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+
+
+
+}
+
+.half-width {
+    width: 100px;
+    margin: 50px 50px;
+    box-shadow: 20px 20px 100px gray;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+.full-width {
+    background-color: rgb(230, 106, 84);
+    border: 2px solid brown;
+}
+
+.donation-ammount {
+    display: flex;
+    margin-left: 38%;
+    margin-right: 35%;
+    margin-bottom: 15px;
+}
+
+input {
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.donate-button-ammount {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: antiquewhite;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 70PX;
+}
+
+.our-donate-plan {
+    text-align: center;
+}
+
+.beside-by-beside {
+
+    width: 100%;
+    display: flex;
+    margin-left: 0.2%;
+    margin-right: 5%;
+    margin-bottom: 150px;
+    padding-left: 4px;
+    border-radius: 10px;
+}
+
+.half-full-width {
+    width: 500px;
+    margin: 30px 60px 20px;
+    box-shadow: 20px 20px 100px gray;
+    padding-left: 4px;
+    padding-right: 8px;
+    padding-top: 1%;
+    border-radius: 5px;
+
+}
+
+.blue-colour {
+    background-color: cadetblue;
+}
+
+.pink-colour {
+    background-color: lightpink;
+}
+
+.yellow-colour {
+    background-color: burlywood;
+}
+
+.flexible-item {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.little-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.little-width img {
+    width: 80%;
+}
+
+.my-updates {
+    text-align: center;
+}
+
+.email-sub {
+    background-color: darkkhaki;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.footer-font {
+
+    font-family: 'Lobster', cursive;
+    color: brown;
+}
+
+.footer-mini {
+    color: antiquewhite;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
